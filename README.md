@@ -1,4 +1,4 @@
-# 🎵 Spotify Clone
+<img width="1894" height="866" alt="image" src="https://github.com/user-attachments/assets/cfc64ef7-0a74-4704-a303-dfd502c3f595" /># 🎵 Spotify Clone
 
 A simple **Spotify Clone** built using **HTML, CSS, and JavaScript**.  
 This project replicates the core design and basic functionality of Spotify’s music player, allowing users to play, pause, and switch between songs.
@@ -35,7 +35,7 @@ This project replicates the core design and basic functionality of Spotify’s m
 ---
 
 ## 📸 Screenshots
-(Add screenshots of your UI here to make your project stand out)
+<img width="1894" height="866" alt="Screenshot 2025-09-04 160844" src="https://github.com/user-attachments/assets/6c1cc5f8-823f-4ef8-a925-c7e17b484ee4" />
 
 ---
 
