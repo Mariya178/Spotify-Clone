@@ -1,4 +1,4 @@
-<img width="1894" height="866" alt="image" src="https://github.com/user-attachments/assets/cfc64ef7-0a74-4704-a303-dfd502c3f595" /># 🎵 Spotify Clone
+🎵 Spotify Clone
 
 A simple **Spotify Clone** built using **HTML, CSS, and JavaScript**.  
 This project replicates the core design and basic functionality of Spotify’s music player, allowing users to play, pause, and switch between songs.
